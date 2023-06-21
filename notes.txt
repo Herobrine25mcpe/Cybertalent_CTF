@@ -1,0 +1,23 @@
+Web-VAPT notes
+
+
+Recon
+
+tools: 
+	Target Validation: whois, nslookup, dnsrecon
+
+	Finding Subdomains: Google Fu, dig, Namp, Sublist3r,Bluto, crt.sh
+
+	Fingerprinting: Namp, Wappalyzer, WhatWeb, Builtwith, Netcat,eyewitness
+
+	Decoder: https://lelinhtinh.github.io/de4js/, https://beautifier.io/, http://deobfuscatejavascript.com/, 			https://mindedsecurity.github.io/jstillery/
+
+	XSS: https://xss-proxy.sourceforge.net/
+
+	Directory Traversal : Dirbuster, Wfuzz, dirsearch, gobuster
+	
+	Command Injection: https://github.com/commixproject/commix
+
+
+
+
