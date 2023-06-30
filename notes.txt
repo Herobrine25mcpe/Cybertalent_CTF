@@ -29,7 +29,9 @@ https://gtfobins.github.io/
 https://www.exploit-db.com/
 https://book.hacktricks.xyz/welcome/readme
 https://sushant747.gitbooks.io/total-oscp-guide/content/
-
+https://github.com/0xJs/RedTeaming_CheatSheet/tree/main
+https://github.com/ivan-sincek/penetration-testing-cheat-sheet
+https://medium.com/@andr3w_hilton/web-application-penetration-testing-9fbf7533b361
 
 
 Hacker Books:
